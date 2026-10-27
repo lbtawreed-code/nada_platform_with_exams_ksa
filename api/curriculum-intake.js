@@ -1,4 +1,4 @@
-const N8N_URL = "https://n8n.lbtawreed.online/webhook/tawreed-curriculum-intake";
+const N8N_URL = "https://n8n.lbtawreed.online/webhook/tawreed-KSA-curriculum-intake";
 
 export default async function handler(req, res) {
   if (req.method !== "POST") {
