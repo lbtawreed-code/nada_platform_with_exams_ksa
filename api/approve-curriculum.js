@@ -1,4 +1,4 @@
-const N8N_URL = "https://n8n.lbtawreed.online/webhook/approve-curriculum";
+const N8N_URL = "https://n8n.lbtawreed.online/webhook/approve-curriculum-KSA";
 
 export default async function handler(req, res) {
   if (req.method !== "POST") {
